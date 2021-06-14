@@ -1,0 +1,7 @@
+1) Lê matriz M(3,3) e a imprimi. A seguir calcule a
+soma de todos os elementos da matriz e a imprime (a
+soma).
+2) Fazer um algoritmo que lê uma matriz M(4,4) e a
+imprime. A seguir identifica o maior elemento da
+matriz e a imprime.
+3) Exercícios anteriores, imprimir o menor valor.

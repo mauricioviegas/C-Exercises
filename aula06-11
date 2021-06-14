@@ -1,0 +1,7 @@
+1) Escreve um programa que leia um valor em ponto flutuante e um código (0 ou 1). Após a leitura, o programa chama 
+um subprograma para fazer a conversão do valor lido ,conforme indicado pelo codigo.  OBS:valor dolar 2.87
+0=conversão real/dolar
+1=conversão dolar/real
+
+2) Escreve um programa que le matricula e telefone de 20 alunos. O programa chama uma função que recebe a matrícula 
+e devolve o numero do telefone do aluno.(agenda)
